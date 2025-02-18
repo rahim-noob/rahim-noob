@@ -1,8 +1,8 @@
 ![I am rahim-noob](https://github.com/rahim-noob/rahim-noob/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h1 align="center">Hi 👋, I'm MD RAHIM MIA </h1>
+<h3 align="center">  Web Designer | Wordpress Designer </h3>
+<h4 align="center">I Am Student & Learning FRONT END DEVELOPEMENT </h4>
 
 <div align="center">
 
