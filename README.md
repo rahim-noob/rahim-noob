@@ -1,4 +1,5 @@
-![I am rahim-noob](https://github.com/rahim-noob/rahim-noob/blob/main/code.png)
+![I am rahim-noob] (https://github.com/rahim-noob/rahim-noob/blob/main/code.png)
+
 
 <h1 align="center">Hi 👋, I'm MD RAHIM MIA </h1>
 <h3 align="center">  Web Designer | Wordpress Designer </h3>
@@ -8,23 +9,23 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=rahim-noob&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: HTML/ CSS / C / JS / BOOTSTRAP / REACT / 
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently Studing on (https://brahmanbaria.polytech.gov.bd/)]
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning FRONT END DEVELOPEMENT
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahim-noob](https://github.com/rahim-noob)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **programmerharun@gmail.com**
+- 📫 How to reach me **rahimcse70@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📄 All About Me:[https://rahim.royaltti.com/)
 
 <h3 align="left">Connect with me:</h3>
 
