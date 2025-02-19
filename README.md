@@ -1,4 +1,4 @@
-![I am rahim-noob] (https://github.com/rahim-noob/rahim-noob/blob/main/code.png)
+![I am rahim-noob](https://github.com/rahim-noob/rahim-noob/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm MD RAHIM MIA </h1>
 <h3 align="center">  Web Designer | Wordpress Designer </h3>
